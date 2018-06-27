@@ -15,13 +15,13 @@ MCU     : STM32F407VGT              <br>
 Vendor  : ST Microelectronics       <br>
 Drivers : GPIO, SPI, I2C, UART, CAN <br>
 
-MCU     : TM4C123GXL                <br>
+MCU     : TM4C123GH                 <br>
 Vendor  : Texas Instruments         <br>
 Drivers : GPIO, SPI, I2C, UART, CAN <br>
 
 <b>Board Support Packages:-</b>
-1) STM-Nucleo-64
-2) STM-Discovery
-3) Tiva C Series LaunchPad Evaluation Kit
+1) STM-Nucleo-64-F401
+2) STM-Discovery-F407
+3) EK-TM4C123GXL Tiva C Series LaunchPad Evaluation Kit
 
 
