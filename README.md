@@ -11,13 +11,13 @@ MCU     : STM32F401RE          <br>
 Vendor  : ST Microelectronics  <br>
 Drivers : GPIO, SPI, I2C, UART <br>
 
-MCU     : STM32F407VGT         <br>
-Vendor  : ST Microelectronics  <br>
-Drivers : GPIO, SPI, I2C, UART <br>
+MCU     : STM32F407VGT              <br>
+Vendor  : ST Microelectronics       <br>
+Drivers : GPIO, SPI, I2C, UART, CAN <br>
 
-MCU     : TM4C123GXL           <br>
-Vendor  : Texas Instruments    <br>
-Drivers : GPIO, SPI, I2C, UART <br>
+MCU     : TM4C123GXL                <br>
+Vendor  : Texas Instruments         <br>
+Drivers : GPIO, SPI, I2C, UART, CAN <br>
 
 <b>Board Support Packages:-</b>
 1) STM-Nucleo-64
