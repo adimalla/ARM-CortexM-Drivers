@@ -1,4 +1,4 @@
-# STM-ARM-CortexM-Drivers
+# ARM-CortexM-Drivers
 <h4>Peripheral Drivers for ARM Cortex M based Microcontrollers.</h4>
 
 <b>Status:</b> <i>"Currently under development"</i>
