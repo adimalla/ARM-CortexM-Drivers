@@ -2,6 +2,7 @@
 <h4>Peripheral Drivers for ARM Cortex M based Microcontrollers.</h4>
 
 <b>Status:</b> <i>"Currently under development"</i>
+1) GPIO driver files for STM32F407VGT added <br>
 
 <h4>Pending Work:-</h4>
 
@@ -13,7 +14,7 @@ Drivers : GPIO, SPI, I2C, UART <br>
 
 MCU     : STM32F407VGT              <br>
 Vendor  : ST Microelectronics       <br>
-Drivers : GPIO, SPI, I2C, UART, CAN <br>
+Drivers : SPI, I2C, UART, CAN <br>
 
 MCU     : TM4C123GH                 <br>
 Vendor  : Texas Instruments         <br>
