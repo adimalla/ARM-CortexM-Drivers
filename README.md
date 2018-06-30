@@ -2,7 +2,7 @@
 <h4>Peripheral Drivers for ARM Cortex M based Microcontrollers.</h4>
 
 <b>Status:</b> <i>"Currently under development"</i>
-1) GPIO driver files for STM32F407VGT added <br>
+1) GPIO driver files for STM32F407VGT added, Date: 2018/06/30 <br>
 
 <h4>Pending Work:-</h4>
 
