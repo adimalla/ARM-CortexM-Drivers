@@ -1,5 +1,6 @@
   **************************************************************************
-  * File       led_m407xx.h
+  *                 !! LED and BUTTON BSP for ST-DISCO-F407G !!
+  *
   * Author     Aditya Mall
   * Date       2018-07-03
   * copyright  (C) 2018 Aditya Mall.
