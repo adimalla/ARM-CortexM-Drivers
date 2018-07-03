@@ -3,7 +3,7 @@
 
 <b>Status:</b> <i>"Currently under development"</i> <br>
 
-Completed:- <br>
+<h4>Completed:- </h4>
 1) GPIO driver files for STM32F407VGT added, Date: 2018/06/30, version 1.0 (First release) <br>
 2) On board LED and USER button support package added for ST-Discovery-F407 board. Date: 2018/07/03, version 1.0 (First release) <br>
 
