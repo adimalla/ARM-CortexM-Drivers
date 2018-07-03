@@ -30,6 +30,9 @@
   * You should have received a copy of the GNU General Public License
   * along with this program. If not, see <http://www.gnu.org/licenses/>.
   *
+  * For any queries and comments mail me:-
+  * @email <aditya.mall1990@gmail.com>
+  *
   ************************************************************************
   */
 
