@@ -39,7 +39,7 @@
   *	@brief   Compact GPIO driver for STM32F407VGT ARM Cortex M(TM) based Microcontroler,
   *	         by ST Microelectronics.
   *
-  * @dependencies stm32f407xx.h, .... 
+  * @dependencies stm32f407xx.h, system_stm32f4xx.c, startup_stm32f407xx.s
   *
   */
 
