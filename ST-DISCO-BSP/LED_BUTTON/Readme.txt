@@ -6,10 +6,6 @@
   * Brief      LED and USER BUTTON, Board Support Package Header file, 
   *             for ST-Discovery M407G. 
   *
-  *             This file contains:
-  *              - Macros for LED pin defines and USER BUTTON
-  *              - Function prototypes for LED and USER BUTTON API. 
-  *
   ***************************************************************************
   * Attention:
   *
