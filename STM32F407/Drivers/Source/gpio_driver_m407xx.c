@@ -217,7 +217,7 @@ void _hal_gpio_bit_set_reset_pin(GPIO_TypeDef *GPIOx, uint16_t pin_no, uint8_t v
 /**
   * @brief  Configure the interrupt for a given pin number   
   * @param  pin_no   : GPIO pin number 
-  * @param  pin_port : Port of the register
+  * @param  pin_port : Corresponding GPIO Port for the EXTICR register
   * @param  edge_sel : Triggering edge slection value of type "int_edge_sel_t"
   * @retval None
   */
