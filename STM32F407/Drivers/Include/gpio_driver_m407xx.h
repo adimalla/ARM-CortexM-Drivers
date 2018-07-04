@@ -301,8 +301,8 @@ void _hal_gpio_set_alt_function(GPIO_TypeDef *GPIOx, uint16_t pin_no, uint16_t a
   * @brief  Atomi bit set reset for GPIO pin
   * @param  *GPIOx  : GPIO port base address
   * @param  pin_no  : GPIO pin number
-	* @param  val     : if 1 then the ODR bit is set.
-	* @retval None
+  * @param  val     : if 1 then the ODR bit is set.
+  * @retval None
   */
 void _hal_gpio_bit_set_reset_pin(GPIO_TypeDef *GPIOx, uint16_t pin_no, uint8_t val);
 
@@ -326,12 +326,12 @@ static void _hf_gpio_configure_pin_mode(GPIO_TypeDef *GPIOx, uint16_t pin_no, ui
 
 
 /**
-   * @brief  Configures the output type of a pin
-   * @param  *GPIOx     : GPIO Port Base address
-   * @param  pin_no     : GPIO pin number
-   * @param  pin_optype : output type to be configured with
-   * @retval None
-   */
+  * @brief  Configures the output type of a pin
+  * @param  *GPIOx     : GPIO Port Base address
+  * @param  pin_no     : GPIO pin number
+  * @param  pin_optype : output type to be configured with
+  * @retval None
+  */
 static void _hf_gpio_configure_pin_optype(GPIO_TypeDef *GPIOx, uint16_t pin_no, uint16_t pin_optype);
 
 /**
