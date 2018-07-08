@@ -4,7 +4,7 @@
   * @author     Aditya Mall
   * @date       2018-06-25
   * @copyright  (C) 2018 Aditya Mall.
-  * @brief      STM32F407xx GPIO Driver Header File
+  * @brief      STM32F407xx GPIO Driver Implementation File
   *
   *             This file contains:
   *              - Helper functions for Driver exposed API functions
