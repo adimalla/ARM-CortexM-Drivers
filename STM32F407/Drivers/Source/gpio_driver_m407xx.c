@@ -186,7 +186,7 @@ void _hal_gpio_set_alt_function(GPIO_TypeDef *GPIOx, uint16_t pin_no, uint16_t a
 		
 		/* Setting ALternate function high registers */
 		GPIOx->AFR[1] &= ~(alt_func_value << ((pin_no % 8) * 4));
-		GPIOx->AFR[1] &= (alt_func_value << ((pin_no % 8) * 4));
+		GPIOx->AFR[1] |= (alt_func_value << ((pin_no % 8) * 4));
 		
 	}
 }
